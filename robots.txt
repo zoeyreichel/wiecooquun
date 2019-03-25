@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kouquaizu.anansi.be/sitemap.xml
